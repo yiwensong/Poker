@@ -1,0 +1,6 @@
+*.class
+*/*.class
+.*.swp
+*/.*.swp
+.*.swo
+*/.*.swo
